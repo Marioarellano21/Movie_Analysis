@@ -1,4 +1,4 @@
-<h1>Movie Analysis</h1>
+![calificacion_ingresos_presupuesto_roi](https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/e2e53db9-abc9-4d3f-9278-7d8270fc3623)<h1>Movie Analysis</h1>
 
 > [!NOTE]
 > Este es un proyecto que pretende en base a un análisis de los datos oficiales de peliculas y tvseries generar insight de negocio para una empresa de stremaming que busca entrar al mercado. <br>
@@ -24,10 +24,15 @@
 
 <h2> Análisis Exploratorio de los Datos(EDA) </h2>
 
+**Tiempo de duración en Minutos**
+
 <p align="center">
   <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/87e9907a-a511-45c0-9c49-42712f5baa54" alt="Tiempo de duración en Minutos" />
 </p>
 
-**Tiempo de duración en Minutos**
+**Estrenos porcentaje de estrenos por año/Cantidad de estrenos por año**
 
+<p align="center">
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/f331cb0d-923c-4ca9-88ea-f2ff64914def" alt="Tiempo de duración en Minutos" />
+</p>
 
