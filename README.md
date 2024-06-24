@@ -21,3 +21,7 @@
   4. <p align="justify"> ¿Cuáles son los países con mayor producción de contenido? </p>
   5. <p align="justify"> Pregunta 5</p>
   6. <p align="justify"> Pregunta 6/p>
+
+<h2> Análisis Exploratorio de los Datos(EDA) </h2>
+
+<p align="center">![Tiempo de duración](https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/36eafd3d-4728-4950-bd4f-3c3e017e1b16)</p>
