@@ -20,7 +20,7 @@
   3. <p align="justify"> ¿Cuáles son los géneros que proporcionan mayor ROI? </p>
   4. <p align="justify"> ¿Cuáles son los países con mayor producción de contenido? </p>
   5. <p align="justify"> Pregunta 5</p>
-  6. <p align="justify"> Pregunta 6/p>
+  6. <p align="justify"> Pregunta 6</p>
 
 <h2> Análisis Exploratorio de los Datos(EDA) </h2>
 
@@ -38,3 +38,4 @@
   <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/f331cb0d-923c-4ca9-88ea-f2ff64914def" alt="Tiempo de duración en Minutos" />
 </p>
 
+<p align="justify"> Podemos observar que la mayoría de las películas y series han sido producidas y estrenadas en el siglo 21, en estos ultimos 20 años se han lanzado aproximadamente unos 300mil titulos lo que representa un 62% de nuestros datos, dividos la primera decada de los 2000 con un 33% de estos lanzamientos y en la segunda epoca, en este caso incluyendo los ultimos 4 años un 29% de lanzamientos, parece que con el paso de tiemp disminuyo un poco la cantidad de producciones realizadas, como la compañia es de streaming y los tiempos van cambiando constantemente, limitaremos el análisis de las producciones entre el año 1990 hasta el presente año 2024, el resto no las consideraremos porque aunque fueron de gran impacto en su epoca, hoy en día pueden que no tengan el mismo impacto debido a los grandes cambios culturales que hemos tenido en estas dos ultimas decadas.</p>
