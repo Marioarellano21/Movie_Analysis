@@ -1,4 +1,4 @@
-![calificacion_ingresos_presupuesto_roi](https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/e2e53db9-abc9-4d3f-9278-7d8270fc3623)<h1>Movie Analysis</h1>
+<h1>Movie Analysis</h1>
 
 > [!NOTE]
 > Este es un proyecto que pretende en base a un análisis de los datos oficiales de peliculas y tvseries generar insight de negocio para una empresa de stremaming que busca entrar al mercado. <br>
