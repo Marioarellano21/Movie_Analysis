@@ -24,4 +24,8 @@
 
 <h2> Análisis Exploratorio de los Datos(EDA) </h2>
 
-<p align="center"> ![runtimeMinutes](https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/36887284-26c1-43a8-b5ad-21a4bf79da59)</p>
+<p align="center">
+  <img src=![runtimeMinutes](https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/87e9907a-a511-45c0-9c49-42712f5baa54)
+ alt="Tiempo de duración en Minutos" />
+</p>
+
