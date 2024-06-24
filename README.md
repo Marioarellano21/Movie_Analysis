@@ -24,4 +24,4 @@
 
 <h2> Análisis Exploratorio de los Datos(EDA) </h2>
 
-<p align="center"> ![image](https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/d1a539d0-7f23-4467-babb-dbd803f3a184) </p>
+<p align="center"> ![runtimeMinutes](https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/36887284-26c1-43a8-b5ad-21a4bf79da59)</p>
