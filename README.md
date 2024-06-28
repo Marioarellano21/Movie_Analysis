@@ -68,7 +68,7 @@
 
 <h3>Pregunta 2: ¿Cual es el rating promedio por género?</h3>
 <p align="center">
-  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/14672613-7382-4201-862d-96442b75fff6" alt="RATING PROMEDIO POR GENERO" />
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/433790e5-be65-437c-bcea-8ac177e9f062" alt="RATING PROMEDIO POR GENERO" />
 </p>
 
 <p align="justify"> El análisis de los géneros nos indica que el público prefiere contenidos relacionados a Documentales, Guerra, Talks Show, Romance y Acción.</p>
@@ -91,3 +91,15 @@
 **RECOMENDACIONES**
 
 <p align="justify">Invertir en las producciones de estas categorías que generaron más dividendos, las que fueron más vistas por el público y que tenga un rating superior a 6.4, teniendo en cuenta que como observamos, aunque estás generan más ROI no son las que más se buscan cuando tenemos en consideración el insight anterior.</p>
+
+<h3>Pregunta 4:   ¿Cuáles son los países con mayor producción de contenido?</h3>
+<p align="center">
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/4dafeb05-dbfe-4517-b74a-4f8645f54140" alt="PAÍSES QUE MÁS PRODUCEN" />
+</p>
+
+<p align="justify"> El país con la mayor producción de contenidos es USA y el Reino unido sin embargo observamos que su ROI suele rondar entre 0.8 y 1 mientras que países como China, Japón y la India, producen mucho menos contenido y generan mayores ganancias con respecto al presupuesto invertido.</p>
+
+**RECOMENDACIONES**
+
+<p align="justify">Como sugerencia al negocio proponemos seguir adquiriendo y sumando a la plataforma series y películas de países como USA y UK en mayor medida, pero dejando un espacio para traer contenido de China, India y Japón realizando primero un estudio del contenido a traer, basados en los géneros y tomar una muestra de individuos primero, que hagan una evaluación del contenido para ver si es de calidad para el consumidor de la plataforma.</p>
+
