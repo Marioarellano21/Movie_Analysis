@@ -47,3 +47,47 @@
 </p>
 
 <p align="justify"> Encontramos que la mayoría de las Producciones tienen un ranking de entre 6 y 8 aproximadamente, aquí se concentran aproximadamente la mayoría de los datos en el histograma. Observamos que es difícil ver producciones con ratings de 1, 2, 3 y e incluso 4, pero las hay.</p>
+
+<h2>Insights</h2>
+
+<h3>Pregunta 1: ¿Cuál es la evolución del rating por tipo de contenido?</h3>
+
+<p align="center">
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/14672613-7382-4201-862d-96442b75fff6" alt="EVOLUCIÓN RATING" />
+</p>
+
+<p align="justify"> El análisis del contenido indica que históricamente el público consume más películas que series de TV.</p>
+  
+<p align="justify">El público prefiere más las series deTV con un rating superior a los 7 puntos hasta los 7.4. En cuanto a las películas tuvo una subida desde el 2020 hasta el 2023 a un promedio de 6,4.</p>
+
+<p align="justify">Desde el 1990 se han producido muchas más películas que series de TV.</p>
+
+**RECOMENDACIONES**
+
+<p align="justify">Recomendamos invertir en contenido con un rating promedio de 6 en adelante en películas y en series desde 6.8 en adelante, por ultimo se recomienda que la proporción sea 80% películas y 20% series.</p>
+
+<h3>Pregunta 2: ¿Cual es el rating promedio por género?</h3>
+<p align="center">
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/14672613-7382-4201-862d-96442b75fff6" alt="RATING PROMEDIO POR GENERO" />
+</p>
+
+<p align="justify"> El análisis de los géneros nos indica que el público prefiere contenidos relacionados a Documentales, Guerra, Talks Show, Romance y Acción.</p>
+  
+<p align="justify">Sin embargo, son contenidos con pocas producciones, por tanto, no es un nicho explorado y explotado.</p>
+
+**RECOMENDACIONES**
+
+<p align="justify">Recomendamos invertir en estos contenidos, pero teniendo en cuenta ciertos parámetros como el rating, en el caso por ejemplo del Talks Show, esto es un tipo de tvserie, es recomendable invertir como se vio anteriormente en aquellas con ranking superiores a los 6.8, por supuesto esto no será el límite, también recomendamos invertir en las demás categorías sólo que la inversión tiene que ser menor y más selectiva.</p>
+
+<h3>Pregunta 3:  ¿Cuáles son los géneros que proporcionan mayor ROI?</h3>
+<p align="center">
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/8bf9c8f8-9753-455d-96f8-3210a68db8bd" alt="ROI POR GENERO" />
+</p>
+
+<p align="justify"> El análisis del ROI nos indica que los géneros relacionados con Aventuras, Ciencia Ficción, Acción y Fantasía son los que generan mayor Roi.</p>
+  
+<p align="justify">Seguidos de cerca por los géneros de Misterio, Animación y Romance.</p>
+
+**RECOMENDACIONES**
+
+<p align="justify">Invertir en las producciones de estas categorías que generaron más dividendos, las que fueron más vistas por el público y que tenga un rating superior a 6.4, teniendo en cuenta que como observamos, aunque estás generan más ROI no son las que más se buscan cuando tenemos en consideración el insight anterior.</p>
