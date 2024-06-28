@@ -81,7 +81,7 @@
 
 <h3>Pregunta 3:  ¿Cuáles son los géneros que proporcionan mayor ROI?</h3>
 <p align="center">
-  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/8bf9c8f8-9753-455d-96f8-3210a68db8bd" alt="ROI POR GENERO" />
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/98cb6322-7c16-4eff-a960-40ddb86c577b" alt="ROI POR GENERO" />
 </p>
 
 <p align="justify"> El análisis del ROI nos indica que los géneros relacionados con Aventuras, Ciencia Ficción, Acción y Fantasía son los que generan mayor Roi.</p>
