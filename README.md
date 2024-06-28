@@ -39,3 +39,11 @@
 </p>
 
 <p align="justify"> Podemos observar que la mayoría de las películas y series han sido producidas y estrenadas en el siglo 21, en estos ultimos 20 años se han lanzado aproximadamente unos 300mil titulos lo que representa un 62% de nuestros datos, dividos la primera decada de los 2000 con un 33% de estos lanzamientos y en la segunda epoca, en este caso incluyendo los ultimos 4 años un 29% de lanzamientos, parece que con el paso de tiemp disminuyo un poco la cantidad de producciones realizadas, como la compañia es de streaming y los tiempos van cambiando constantemente, limitaremos el análisis de las producciones entre el año 1990 hasta el presente año 2024, el resto no las consideraremos porque aunque fueron de gran impacto en su epoca, hoy en día pueden que no tengan el mismo impacto debido a los grandes cambios culturales que hemos tenido en estas dos ultimas decadas.</p>
+
+**Distribución del promedio del ranking/Boxplot Cantidad de votos**
+
+<p align="center">
+  <img src="https://github.com/Marioarellano21/Movie_Analysis/assets/146877817/d7e1d60d-e202-421f-8dd9-6fe553536004" alt="Tiempo de duración en Minutos" />
+</p>
+
+<p align="justify"> Encontramos que la mayoría de las Producciones tienen un ranking de entre 6 y 8 aproximadamente, aquí se concentran aproximadamente la mayoría de los datos en el histograma. Observamos que es difícil ver producciones con ratings de 1, 2, 3 y e incluso 4, pero las hay.</p>
